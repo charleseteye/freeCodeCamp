@@ -55,7 +55,7 @@ HTML Forms are required when you want to collect some data from the site visitor
 
 A form will take input from the site visitor and then will post it to a back-end application such as CGI, ASP Script or PHP script etc. The back-end application will perform required processing on the passed data based on defined business logic inside the application.
 
-There are various form elements available like text fields, textarea fields, drop-down menus, radio buttons, checkboxes, etc.
+There are various form elements available like textfields, textarea fields, drop-down menus, radio buttons, checkboxes, etc.
 
 The HTML `<form>` tag is used to create an HTML form and it has following syntax −
 
